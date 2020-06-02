@@ -1,0 +1,78 @@
+1. Vocabulaire
+Performance moyenne: Moyenne
+Variation performance moyenne: écartype
+Significatif: si c'est significatif, cela signifie que si on reproduit l'expérience avec des personnes différentes et les mêmes conditions expérimentales nous obtiendrons les mêmes tendances
+
+Dispersion50: la taille entre le 1er quartile et le 3ième quartile
+Dispersion100: la taille entre les extrémités des moustaches
+
+Résultats significatifs intergroupe: rien
+
+Résultats significatifs intragroupe
+Gr1: Jeu1-Jeu2
+Gr2: Jeu1-Jeu2 et Jeu1-Jeu3 et Jeu1-jeu4
+Gr3: rien
+
+2. Analyse intragroupe
+- Groupe1 :
+Jeu1-Jeu2: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   amélioration de la dispersion50/100
+
+
+- Groupe2 :
+Jeu1-Jeu2: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   amélioration de la dispersion50/100
+
+Jeu1-Jeu3: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   amélioration de la dispersion50/100
+
+Jeu1-Jeu4: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   amélioration de la dispersion50/100
+
+
+- Groupe3 (aucune donnée significative):
+	le groupe 3 a de bons résultats stables et équivalent (mais inferieure) à ceux du groupe 2 à partir du jeu 2
+
+
+- Constats: 
+	- Après une amélioration au jeu 2, le défaut s'aggrave pour le groupe 1.
+	- le groupe 3 a de bons résultats stables mais inferieures au groupe 2
+	- le défaut semble être détecté et corrigé par le système (groupe 2)
+
+		
+
+2. Analyse intergroupe
+- Jeu1:  meilleurs résultats pour le performance moyenne et sa variation-> groupe 3
+	 meilleurs résultats pour la médiane -> groupe 1
+	 dispersion50 -> groupe 1
+	 dispersion100 -> groupe 1
+
+- Jeu2:  meilleurs résultats pour le performance moyenne -> groupe 2
+	 meilleurs résultats pour la variation -> groupe 3
+	 meilleurs résultats pour la médiane -> groupe 1
+	 dispersion50 ->  groupe 1
+	 dispersion100 -> groupe 1
+
+- Jeu3:  meilleurs résultats pour le performance moyenne -> groupe 2
+	 meilleurs résultats pour la variation -> groupe 3
+	 meilleurs résultats pour la médiane -> groupe 2
+	 dispersion50 -> groupe 2
+	 dispersion100 -> groupe 2
+
+- Jeu4:  meilleurs résultats pour le performance moyenne -> groupe 2
+	 meilleurs résultats pour la variation -> groupe 3
+	 meilleurs résultats pour la médiane -> groupe 2
+	 dispersion50 -> groupe 3
+	 dispersion100 -> groupe 2
+
+- Constats: 
+	- les meilleurs resultats en termes de moyenne sont obtenus par le groupe 2 et de variation par le groupe 3, soit les groupes faisant intervenir le système
+	- les meilleurs resultats en termes de médiane sont obtenus par le groupe 1 ou 2, soit les groupes faisant intervenir l'homme
+        - les meilleures dispersions sont obtenues par le groupe 2 ou 3 soit les groupes faisant intervenir le système
+	- Aucune différence significative n'est constatée
+
+		

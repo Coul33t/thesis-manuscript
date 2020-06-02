@@ -1,0 +1,19 @@
+Ajouter k-means k = 2 dans Ch5
+
+Ajouter paragraphe de vanda sur la défitinion du geste
+
+Dans la présentation, lier les hypothèses qux questions de recherche
+
+Changer l'analyse des séquences d'actions de TELEOS
+
+Page 60 -> perspective
+
+Rajouter que les catégories d'analyse ne sont pas exclusives
+
+Approche différente de TELEOS (on en regardait pas le résultat du geste pour donner les conseils, à l'inverse de TELEOS)
+
+modifier les paragraphes sur TELEOS (p. 70 et avant)
+
+changer le schéma du workflow
+
+Changer " validation de HX dans le contexte de l'experimentation "

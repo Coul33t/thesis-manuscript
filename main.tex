@@ -1,0 +1,105 @@
+% book example for classicthesis.sty
+\documentclass[
+  % Replace twoside with oneside if you are printing your thesis on a single side
+  % of the paper, or for viewing on screen.
+  %oneside,
+  oneside,
+  11pt, a4paper,
+  footinclude=true,
+  headinclude=true,
+  doublespacing,
+  cleardoublepage=empty
+]{scrbook}
+
+\usepackage{lipsum}
+\usepackage[linedheaders, parts, pdfspacing, dottedtoc]{classicthesis}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{acronym}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[frenchb]{babel}
+\usepackage{url}
+\usepackage[style=authoryear, autocite=inline]{biblatex}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{pdflscape}
+\usepackage{makecell}
+\usepackage{algorithm, algpseudocode}
+\usepackage{enumitem}
+\usepackage{colortbl}
+\usepackage{pdfpages}
+\usepackage{multirow}
+\usepackage{adjustbox}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{listings}
+\usepackage{float}
+\usepackage{framed}
+\usepackage{afterpage}
+
+\newcommand*\mymathstrut{\ifmmode\vrule width 0pt height 2.2ex\fi}
+\newcommand\footnoteref[1]{\protected@xdef\@thefnmark{\ref{#1}}\@footnotemark}
+
+\renewbibmacro*{name:andothers}{% Based on name:andothers from biblatex.def
+  \ifboolexpr{
+    test {\ifnumequal{\value{listcount}}{\value{liststop}}}
+    and
+    test \ifmorenames
+  }
+    {\ifnumgreater{\value{liststop}}{1}
+       {\finalandcomma}
+       {}%
+     \andothersdelim\bibstring[\emph]{andothers}}
+    {}}
+    
+\usepackage{geometry}
+\geometry{
+	paper=a4paper, % Change to letterpaper for US letter
+	inner=2.5cm, % Inner margin
+	outer=3.8cm, % Outer margin
+	bindingoffset=.5cm, % Binding offset
+	top=2cm, % Top margin
+	bottom=2cm, % Bottom margin
+	twoside
+	%showframe, % Uncomment to show how the type block is set on the page
+}
+
+\addbibresource{biblio.bib}
+\title{Contribution à l'apprentissage humain de gestes à l'aide de techniques de clustering pour l'analyse de mouvements capturés}
+\author{Quentin Couland\\ Directeur de thèse : \textbf{Sébastien George}\\Co-encadrant : \textbf{Ludovic Hamon}}
+
+\begin{document}
+
+% \maketitle
+
+%\include{FrontBackMatter/abstract}
+\include{FrontBackMatter/acknowledgements}
+\include{FrontBackMatter/dedication}
+%\include{FrontBackMatter/declaration}
+\include{FrontBackMatter/contents}
+
+\include{chapters/introduction}
+
+\include{chapters/eiah_pour_le_geste}
+
+\include{chapters/descripteurs}
+
+\include{chapters/analyse_mouvement_capture}
+
+\include{chapters/plateforme_MLA}
+
+\include{chapters/Traitement_donnees}
+
+\include{chapters/experimentations}
+
+\include{chapters/bilan_et_perspectives}
+
+\printbibliography
+
+\newpage
+\appendix
+
+\include{chapters/annexes}
+
+\end{document}

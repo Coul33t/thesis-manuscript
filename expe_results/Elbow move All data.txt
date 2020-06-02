@@ -1,0 +1,104 @@
+1. Vocabulaire
+Performance moyenne: Moyenne
+Variation performance moyenne: écartype
+Significatif: si c'est significatif, cela signifie que si on reproduit l'expérience avec des personnes différentes et les mêmes conditions expérimentales nous obtiendrons les mêmes tendances
+
+Dispersion50: la taille entre le 1er quartile et le 3ième quartile
+Dispersion100: la taille entre les extrémités des moustaches
+
+Résultats significatifs intergroupe: rien
+
+Résultats significatifs intragroupe
+Gr1: Jeu1-Jeu2 et Jeu1-Jeu3 et Jeu1-Jeu4
+Gr2: Jeu1-Jeu2 et Jeu1-Jeu3 et Jeu1-Jeu4 et Jeu2-Jeu3 et Jeu2-Jeu4
+Gr3: Jeu1-Jeu2 et Jeu1-Jeu3 et Jeu1-Jeu4  et Jeu3-Jeu4
+
+2. Analyse intragroupe
+- Groupe1 :
+Jeu1-Jeu2: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   amélioration de la dispersion100
+	   disperion50 à vérifier
+
+Jeu1-Jeu3: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   amélioration de la dispersion50/100
+
+Jeu1-Jeu4: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   amélioration de la dispersion50/100
+
+
+- Groupe2 :
+Jeu1-Jeu2: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   amélioration de la dispersion50/100
+
+Jeu1-Jeu3: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   amélioration de la dispersion50/100
+
+Jeu1-Jeu4: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   amélioration de la dispersion50/100
+
+Jeu2-Jeu3: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   dispersion50/100 à vérifier
+
+Jeu2-Jeu4: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   amélioration de la dispersion50/100
+
+- Groupe3 :
+Jeu1-Jeu2: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   amélioration de la dispersion50/100
+
+Jeu1-Jeu3: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   amélioration de la dispersion50/100
+
+Jeu1-Jeu4: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   amélioration de la dispersion50/100
+
+Jeu3-Jeu4: dégradation significative de la performance moyenne et sa variation 
+           dégradation de la médianne
+	   amélioration de la dispersion50/100
+
+- Constats: 
+	- le defaut semble rapidement atteindre un minimum dès le deuxième jeu rendant ainsi 
+          les différences intragroupes négligeables au delà du deuxième jeu. Faut-il introduire la notion difficulté dans les défauts à corriger et leur perception ?
+		
+
+2. Analyse intergroupe
+- Jeu1:  meilleurs résultats pour le performance moyenne et sa variation -> groupe 2
+	 meilleurs résultats pour la médiane -> groupe 2
+	 dispersion50 -> groupe 1
+	 dispersion100 -> groupe 1 ou 2
+
+- Jeu2:  meilleurs résultats pour le performance moyenne -> groupe 1
+	 meilleurs résultats pour la variation -> groupe 2 (de très peu sinon groupe 1)
+	 meilleurs résultats pour la médiane -> groupe 3
+	 dispersion50 -> groupe 3
+	 dispersion100 -> groupe 2
+
+- Jeu3:  meilleurs résultats pour le performance moyenne et variation -> groupe 2
+	 meilleurs résultats pour la médiane -> groupe 3
+	 dispersion50 -> groupe 3
+	 dispersion100 -> groupe 1
+
+- Jeu4:  meilleurs résultats pour le performance moyenne -> groupe 2
+	 meilleurs résultats pour la variation -> groupe 1 (de très peu sinon groupe 2)
+	 meilleurs résultats pour la médiane -> groupe 2
+	 dispersion50 -> groupe 2 ou 3
+	 dispersion100 -> groupe 2
+
+- Constats: 
+	- la meilleure médiane est souvent celle du groupe 2 ou 3
+	- Aucune différence significative n'a été constatée
+	- le defaut semble rapidement atteindre un minimum dès le deuxième jeu rendant ainsi 
+          les différences intergroupes négligeables
+
+		

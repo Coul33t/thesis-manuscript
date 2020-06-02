@@ -1,0 +1,174 @@
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\deactivateaddvspace 
+\babel@toc {french}{}
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Représentation informatique d'un squelette humain en 3D}}{28}{figure.caption.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2}{\ignorespaces Données d'un squelette 3D}}{29}{figure.caption.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3}{\ignorespaces Squelette reconstitué à partir de vidéo stéréo \parencite {Liu2016Tb3}}}{30}{figure.caption.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4}{\ignorespaces Squelette et articulations captés par la Kinect V2 \parencite {Faisal2015Kinect}}}{31}{figure.caption.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5}{\ignorespaces utilisation de multiples caméras RGB et RGB-B pour éviter l'occlusion \parencite {Regazzoni2014Rcv}}}{31}{figure.caption.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6}{\ignorespaces Système de captation par caméra infrarouge \parencite {Morel2017Mts}}}{32}{figure.caption.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7}{\ignorespaces Bras haptique simulant l'insertion d'une sonde naso-gastrique \parencite {Choi2015103}}}{34}{figure.caption.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {8}{\ignorespaces Marqueurs réfléchissants sur une personne et un objet \parencite {Ng2008}}}{35}{figure.caption.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {9}{\ignorespaces EIAH pour la rééducation \parencite {Baldominos2015AAt}}}{37}{figure.caption.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {10}{\ignorespaces EIAH pour la chirurgie orthopédique \parencite {BMT_2015}}}{38}{figure.caption.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {11}{\ignorespaces EIAH pour l'apprentissage de la langue des signes \parencite {Gameiro2014KST}}}{39}{figure.caption.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {12}{\ignorespaces EIAH permettant de corriger des parties spécifiques du geste \parencite {Xu2019Ptt}}}{40}{figure.caption.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {13}{\ignorespaces EIAH pour l'évaluation de gestes sportifs \parencite {Morel2017Mts}}}{42}{figure.caption.14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {14}{\ignorespaces EVAH superposant les gestes de l'apprenant à ceux de l'expert \parencite {LeNaour2019S3V}}}{43}{figure.caption.15}%
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {15}{\ignorespaces Le système de partition de Laban}}{53}{figure.caption.17}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {16}{\ignorespaces Corrélation entre le geste de l'apprenant et de l'expert}}{54}{figure.caption.18}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {17}{\ignorespaces Aires extraites du polygone du squelette \parencite {Sakurai2015Ros}}}{56}{figure.caption.19}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {18}{\ignorespaces Descripteurs basés sur les positions relatives des articulations entre elles \parencite {Xiao2015Sbh}}}{56}{figure.caption.20}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {19}{\ignorespaces Mouvement retournés à partir de postures dessinées \parencite {Sakurai2015Ros}}}{57}{figure.caption.21}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {20}{\ignorespaces Enveloppe convexe}}{61}{figure.caption.22}%
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {21}{\ignorespaces Descripteurs pour l'analyse de la démarche \parencite {Chen2016TPG}}}{66}{figure.caption.25}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {22}{\ignorespaces Environnement virtuel pour l'apprentissage du karaté \parencite {Burns2011Uvh}}}{67}{figure.caption.26}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {23}{\ignorespaces Correction du mouvement de l'apprenant \parencite {Yoshinaga2015Doa}}}{68}{figure.caption.27}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {24}{\ignorespaces Système d'apprentissage du lancer de disque \parencite {Yamaoka2013FoF}}}{70}{figure.caption.28}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {25}{\ignorespaces Système d'apprentissage de mouvement utilisant un CAVE pour la captation et la comparaison \parencite {Kyan2015ABD}}}{72}{figure.caption.29}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {26}{\ignorespaces EVAH permettant de générer des parcours à suivre pour un objet ou l'apprenant \parencite {Delest2019MaE}}}{73}{figure.caption.30}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {27}{\ignorespaces Étapes de normalisation et d'analyse automatique du mouvement \parencite {Patrona2018MaA}}}{75}{figure.caption.31}%
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {28}{\ignorespaces Architecture de la plateforme \textit {Motion Learning Analytics} (\textit {MLA}).\relax }}{84}{figure.caption.32}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {29}{\ignorespaces Le workflow général de la plateforme \textit {MLA}.\relax }}{85}{figure.caption.33}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {30}{\ignorespaces Exemple de squelette dans un fichier BVH}}{85}{figure.caption.34}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {31}{\ignorespaces Exemple de données de mouvement dans un fichier BVH}}{85}{figure.caption.35}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {32}{\ignorespaces Architecture des pré-traitements et de l'affichage du mouvement capturé de \textit {MLA}}}{86}{figure.caption.36}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {33}{\ignorespaces Diagramme de classes du mouvement}}{86}{figure.caption.37}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {34}{\ignorespaces Diagramme de classes de la structure de stockage des données}}{87}{figure.caption.38}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {35}{\ignorespaces Exemple de descripteurs au format JSON}}{87}{figure.caption.39}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {36}{\ignorespaces Configurations possibles pour le Perception Neuron}}{89}{figure.caption.40}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {37}{\ignorespaces Vitesse linéaire avec artéfacts}}{91}{figure.caption.41}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {38}{\ignorespaces Comparaison de l'influence des paramètres d'un filtre Savitsky-Golay}}{94}{figure.caption.43}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {39}{\ignorespaces Vitesses filtrées par un filtre de Savitsky-Golay}}{94}{figure.caption.44}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {40}{\ignorespaces Vitesse linéaire filtrée et segmentée}}{97}{figure.caption.45}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {41}{\ignorespaces Signal filtré décomposé en trois étapes}}{97}{figure.caption.46}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {42}{\ignorespaces Clusters formés par les données de l'expert}}{99}{figure.caption.47}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {43}{\ignorespaces Feedback visuel proposé à l'expert}}{102}{figure.caption.48}%
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {44}{\ignorespaces Schéma de l'expérimentation du lancer de balle.\relax }}{106}{figure.caption.49}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {45}{\ignorespaces Exemple du mouvement du Bottle Flip Challenge}}{113}{figure.caption.51}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {46}{\ignorespaces L'installation du matériel lors de l'expérimentation du Bottle Flip Challenge (vue du dessus).\relax }}{114}{figure.caption.52}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {47}{\ignorespaces Cible de fléchettes}}{120}{figure.caption.55}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {48}{\ignorespaces Zones d'une cible de fléchettes}}{120}{figure.caption.56}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {49}{\ignorespaces Fléchette}}{120}{figure.caption.57}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {50}{\ignorespaces Défaut du « leaning » (se pencher en avant)}}{122}{figure.caption.58}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {51}{\ignorespaces Défaut du « elbow move » (déplacement du coude)}}{122}{figure.caption.59}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {52}{\ignorespaces Défaut du « javelin » (lancer en javelot)}}{123}{figure.caption.60}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {53}{\ignorespaces Défaut du « align arm » (alignement du bras)}}{124}{figure.caption.61}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {54}{\ignorespaces Installation de l'expérimentation.\relax }}{125}{figure.caption.62}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {55}{\ignorespaces Position latérale imposée aux participants.\relax }}{126}{figure.caption.63}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {56}{\ignorespaces Distance relevée entre les fléchettes et le centre de la cible}}{127}{figure.caption.64}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {57}{\ignorespaces Exemple de visualisation à la fin des séries de lancer}}{128}{figure.caption.65}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {58}{\ignorespaces Moyennes des distances des fléchettes par rapport au centre en intra-groupe}}{133}{figure.caption.71}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {59}{\ignorespaces Moyennes des distances des fléchettes par rapport au centre en inter-groupe}}{134}{figure.caption.72}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {60}{\ignorespaces Moyenne des distances du défaut \textit {align arm} en intra-groupe}}{138}{figure.caption.79}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {61}{\ignorespaces Distance du défaut \textit {align arm} en inter-groupe}}{138}{figure.caption.79}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {62}{\ignorespaces Moyenne des distances du défaut \textit {elbow move} en intra-groupe}}{141}{figure.caption.84}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {63}{\ignorespaces Moyenne des distances du défaut \textit {elbow move} en inter-groupe}}{141}{figure.caption.84}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {64}{\ignorespaces Moyenne des distances du défaut \textit {javelin} en intra-groupe}}{144}{figure.caption.89}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {65}{\ignorespaces Moyenne des distances du défaut \textit {javelin} en inter-groupe}}{144}{figure.caption.89}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {66}{\ignorespaces Moyenne des distances du défaut \textit {leaning} en intra-groupe}}{147}{figure.caption.94}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {67}{\ignorespaces Moyenne des distances du défaut \textit {leaning} en inter-groupe}}{147}{figure.caption.94}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {68}{\ignorespaces Moyenne des distances de tous les défauts en intra-groupe}}{150}{figure.caption.99}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {69}{\ignorespaces Moyenne des distances de tous les défauts en inter-groupe}}{150}{figure.caption.99}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {70}{\ignorespaces Résultats des questionnaires}}{154}{figure.caption.104}%
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {71}{\ignorespaces Une première itération de l'interface graphique des modules d'analyse de MLA}}{164}{figure.caption.107}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {72}{\ignorespaces Un exemple de non-alignement des données de l'apprenant par rapport à celles de l'expert}}{165}{figure.caption.108}%
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 
+\defcounter {refsection}{0}\relax 
+\ttl@tocsep 

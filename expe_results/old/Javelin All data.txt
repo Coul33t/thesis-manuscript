@@ -1,0 +1,108 @@
+1. Vocabulaire
+Performance moyenne: Moyenne
+Variation performance moyenne: écartype
+Significatif: si c'est significatif, cela signifie que si on reproduit l'expérience avec des personnes différentes et les mêmes conditions expérimentales nous obtiendrons les mêmes tendances
+
+Dispersion50: la taille entre le 1er quartile et le 3ième quartile
+Dispersion75: la taille entre le minimum et le 3ième quartile
+Dispersion100: la taille entre le minimum et le maximum
+
+Résultats significatifs intergroupe:
+Jeu1: Gr1-Gr3, 
+Jeu2: Gr1-Gr2, Gr1-Gr3
+Jeu3: Gr1-Gr2, Gr1-Gr3
+Jeu4: Gr1-Gr2, Gr1-Gr3
+
+Résultats significatifs intragroupe
+Gr1: Jeu1-Jeu2 et Jeu1-Jeu3 et Jeu1-Jeu4
+Gr2: Jeu1-Jeu3 et Jeu1-Jeu4 et Jeu2-Jeu4 et Jeu3-Jeu4
+Gr3: Jeu1-Jeu3
+
+2. Analyse intragroupe
+- Groupe1 :
+Jeu1-Jeu2: dégradation significative de la performance moyenne et sa variation 
+           dégradation de la médianne
+	   dégradation de la dispersion100
+	   disperion50/75 à vérifier
+
+Jeu1-Jeu3: dégradation significative de la performance moyenne et sa variation 
+           dégradation de la médianne
+	   dégradation de la dispersion50/75/100
+	   
+
+Jeu1-Jeu4: dégradation significative de la performance moyenne et sa variation 
+           dégradation de la médianne
+	   dégradation de la dispersion50/75/100
+
+
+
+- Groupe2 :
+Jeu1-Jeu3: amélioration significative de la performance moyenne et dégradation de sa variation 
+           amélioration de la médianne
+	   dégradation de la dispersion50/100
+	   amélioration de la dispersion75
+
+Jeu1-Jeu4: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   dégradation de la dispersion50
+	   amélioration de la dispersion75/100
+
+Jeu2-Jeu4: amélioration significative de la performance moyenne et sa variation 
+           amélioration de la médianne
+	   amélioration de la dispersion50/75/100
+
+Jeu3-Jeu4: amélioration significative de la performance moyenne et sa variation 
+           dégradation de la médianne
+	   amélioration de la dispersion50/75/100
+
+
+- Groupe3 :
+Jeu1-Jeu3: amélioration significative de la performance moyenne et sa variation 
+           dégradation de la médianne
+	   amélioration de la dispersion50/75/100
+
+
+- Constats: 
+	- le défaut s'aggrave pour le groupe 1. Ce défaut a-t-il été signalé ?
+	- le défaut semble detecté pour le groupe 3 (amélioration de la dispersion globale). 
+	S'agit-il d'une erreur d'appréciation de l'expert dans l'identification du défaut le plus important à corriger ?
+
+		
+
+2. Analyse intergroupe
+- Jeu1:  meilleurs résultats pour le performance moyenne et sa variation -> groupe 3
+	 meilleurs résultats pour la médiane -> groupe 3
+	 dispersion50 -> groupe 2 ou 3
+         dispersion75 -> groupe 3
+	 dispersion100 -> groupe 3
+
+- Jeu2:  meilleurs résultats pour le performance moyenne et sa variation -> groupe 3
+	 meilleurs résultats pour la médiane -> groupe 3
+	 dispersion50 -> groupe 3
+         dispersion75 -> groupe 3
+	 dispersion100 -> groupe 3
+
+- Jeu3:  meilleurs résultats pour le performance moyenne et sa variation -> groupe 3
+	 meilleurs résultats pour la médiane -> groupe 2
+	 dispersion50 -> groupe 3
+         dispersion75 -> groupe 3
+	 dispersion100 -> groupe 3
+
+- Jeu4:  meilleurs résultats pour le performance moyenne et sa variation -> groupe 3
+	 meilleurs résultats pour la médiane -> groupe 2
+	 dispersion50 -> groupe 2 ou 3
+         dispersion75 -> groupe 3
+	 dispersion100 -> groupe 3
+
+- Constats: 
+	- les meilleurs resultats en termes de médiane et moyenne sont obtenus par le groupe 2 et 3, soit les groupes faisant intervenir le système
+        - les meilleures dispersions sont obtenues par le groupe 3
+	- Des différences significatives sont constatées, pour rappel
+		Jeu1: Gr1-Gr3
+		Jeu2: Gr1-Gr2, Gr1-Gr3
+		Jeu3: Gr1-Gr2, Gr1-Gr3
+		Jeu4: Gr1-Gr2, Gr1-Gr3
+		-> il semblerait que l'utilisation du système seul ainsi que "l'association du système et de l'expert" permettent de mieux corriger ce défaut (détection et amélioration
+		-> les différences significatives entre le groupe 1 et 3 pour le jeu 1 demeurrent toutefois surprenantes
+
+		
